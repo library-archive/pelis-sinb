@@ -1,0 +1,7 @@
+.logo {
+  width: 150px; /* Ajusta el tamaño del logo según lo necesites */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Centra el logo */
+  padding: 20px;
+}

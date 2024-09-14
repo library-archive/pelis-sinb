@@ -1,0 +1,23 @@
+.movie-poster {
+  position: relative;
+  width: 200px; /* Ajusta según el tamaño que desees */
+  height: 300px;
+}
+
+.template {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.movie-image {
+  position: absolute;
+  top: 15%; /* Ajusta según el área verde */
+  left: 10%;
+  width: 80%;
+  height: 70%;
+  z-index: 0;
+}
